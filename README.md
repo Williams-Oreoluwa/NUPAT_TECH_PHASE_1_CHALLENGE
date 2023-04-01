@@ -9,3 +9,5 @@ I had issues collecting some images from the figma file given so I used some ima
 I also had issues using the figma icons so I used the ones from remixicons.com.
 There was also issues as regards to light which slowed me down a bit.
 Aside from the aforementioned, the task was quite inciteful and exhilirating which helped me think logically to tackle some CSS problems...
+Deployed link
+https://nupat-assessment-updated.netlify.app
